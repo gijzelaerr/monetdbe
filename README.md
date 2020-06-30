@@ -1,5 +1,5 @@
-# monetdbe
-MonetDBe - the Python embedded MonetDB
+# Moved
 
+This project has been moved to 
 
-![Python package](https://github.com/gijzelaerr/monetdbe/workflows/Python%20package/badge.svg)
+https://github.com/MonetDBSolutions/MonetDBe-Python/
